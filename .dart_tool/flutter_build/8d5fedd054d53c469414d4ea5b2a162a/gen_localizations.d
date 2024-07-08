@@ -1,0 +1,1 @@
+ D:\\pattern_m\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart D:\\pattern_m\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  D:\\pattern_m\\l10n.yaml D:\\pattern_m\\lib/src/localization\\app_en.arb
