@@ -13,7 +13,6 @@ dependencies:
     sdk: flutter
   flutter_localizations: 
     sdk: flutter
-  #conflicting package: flutter_gen
   flutter_riverpod: ^2.5.1
   gap: ^3.0.1
   import_sorter: ^4.6.0
