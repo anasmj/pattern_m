@@ -1,0 +1,1 @@
+ /Users/algorithmgeneraton/AGL\ Apps/pattern_m/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/algorithmgeneraton/AGL\ Apps/pattern_m/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/algorithmgeneraton/AGL\ Apps/pattern_m/l10n.yaml /Users/algorithmgeneraton/AGL\ Apps/pattern_m/lib/src/localization/app_en.arb
